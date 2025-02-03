@@ -8,4 +8,5 @@ The purpose of the C function is to perform certain actions on strings.
 
 Roles:
 Mark Gallant: Python function
+
 Danylo Samoshkin: C function
