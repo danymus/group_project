@@ -2,5 +2,11 @@
 Collaborators:  Danylo Samoshkin (0303489s)
                 Mark Gallant (161571g)
 
-This project has a few different features in it - there is some C code from Danylo, as well as some Python from Mark,
-to demonstrate that we are both capable of using Github to its most grand potential.
+This project will consist of a single python function, and a group of C functions alongside makefile specification for CMAKE.
+The purpose of the python function will be to take in a list of numbers, and return their sum as an integer/float.
+The purpose of the C function is to perform certain actions on strings.
+
+Roles:
+Mark Gallant: Python function
+
+Danylo Samoshkin: C function
