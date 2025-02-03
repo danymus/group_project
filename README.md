@@ -2,5 +2,5 @@
 Collaborators:  Danylo Samoshkin (0303489s)
                 Mark Gallant (161571g)
 
-This project will consist of a single python function, and some test cases to demonstrate it.
-The purpose of the function will be to take in a list of numbers, and return their sum as an integer/float.
+This project has a few different features in it - there is some C code from Danylo, as well as some Python from Mark,
+to demonstrate that we are both capable of using Github to its most grand potential.
